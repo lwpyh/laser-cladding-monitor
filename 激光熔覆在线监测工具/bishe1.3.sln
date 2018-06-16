@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bishe1.3", "bishe1.3\bishe1.3.vcxproj", "{A02A9803-1B7F-4D73-A856-B188A789898B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A02A9803-1B7F-4D73-A856-B188A789898B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A02A9803-1B7F-4D73-A856-B188A789898B}.Debug|Win32.Build.0 = Debug|Win32
+		{A02A9803-1B7F-4D73-A856-B188A789898B}.Release|Win32.ActiveCfg = Release|Win32
+		{A02A9803-1B7F-4D73-A856-B188A789898B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
